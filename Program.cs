@@ -36,7 +36,7 @@ namespace picacomic
                     }
                     else
                     {
-                        throw new Exception("请查看文档设置账号密码");
+                        throw new Exception("请查看文档设m置账号密码");
                     }
                 }
             }
