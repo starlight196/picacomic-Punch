@@ -27,7 +27,7 @@
 ***
 
 
-**2. 点击你项目上方的Actions,第一次打开可能需要点击 `I understand...`,来启用actions**
+**2. 点击你项目上方的Actions,,第一次打开可能需要点击 `I understand...`,来启用actions**
 
 
 
